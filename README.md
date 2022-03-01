@@ -12,7 +12,7 @@ One can ontinue playing as long as you can repeat each sequence of signals corre
 
 If player plays wrong sequences it asks to restart.
 
-#images
+# images
 
 ![simon1](https://user-images.githubusercontent.com/75025079/156144521-07ea2f6f-53c1-451f-9129-5087766fb6fe.JPG)
 ![simon2](https://user-images.githubusercontent.com/75025079/156144529-cbe4c458-497b-4df7-84cb-132562d1f4ca.JPG)
